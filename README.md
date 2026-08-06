@@ -179,4 +179,4 @@ LLM-MultiTools-Agent/
 
 ---
 
-*Projet réalisé dans le cadre d'une candidature de stage en ingénierie IA.*
+*Projet réalisé dans un cadre scolaire, en ingénierie IA.*
